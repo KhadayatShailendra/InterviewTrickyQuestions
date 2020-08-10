@@ -1,7 +1,0 @@
- ### C#
- 
- 
- ### Anugular
- 
- 
-### MS-SQL
