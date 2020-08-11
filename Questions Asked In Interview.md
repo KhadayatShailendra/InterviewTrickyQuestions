@@ -8,7 +8,7 @@
 ### Anugular
 1. If you have textbox and a X button. How can you clear text in textbox when X is clicked? 
    Answer: Talk about Directive
-2. 
+2. structural directive vs attribute directive with example.
 
 
 
